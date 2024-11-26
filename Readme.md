@@ -1,4 +1,5 @@
 You can create a script to automate this workflow and integrate it into your main development process. Below is a shell script (`push.sh`) that implements the described setup. It requires the **GitHub CLI (`gh`)** and assumes you are comfortable with shell scripting and basic Git operations.
+Adding new text to test the changes
 
 ### Script: `push.sh`
 ```bash
